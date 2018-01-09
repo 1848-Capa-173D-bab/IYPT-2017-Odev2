@@ -1,85 +1,23 @@
-#Ödev Dönüş Tarihi
-**Ödev dönüş tarihi 10 Ocak 2018 Çarşamba günüdür.** Yapacağınız IYPT projeniz ikinci dönemde de devam edecektir. Projenin bütünüyle tamamlanma tarihi 10 Mayıs 2017'dir. 
-
-# Ödev-2 Yönergeleri 
-1. Odev2'yi grup hesabınıza fork ediniz. 
-2. Aşağıdaki açıklamaları izleyerek kendi hesabınıza fork ettiğiniz Odev2'yi değiştiriniz. 
-3. Dosyayı değiştirmek için ya "Github" içindeki kalem sekmesini kullanabilirsiniz. 
-
-## Yapılacak İşlemler
-Bu hafta projenizle ilgili olarak deneylere başlayacaksanız. Biran önce deneylere başlamanız, projenizde ortaya 
-çıkabilecek sorunlar hakkında tedbir almanızı sağlayacaktır. Bu hafta basit deney malzemeleri kullanarak deneyinizi
-gerçekteltirmeye çalışın. Önemli olan deneye başlamanızdır. Deneyde başarısız olmanız, notunuzu hiçbir şekilde etkilemeyecektir.
-Hatta başarısız olmanız doğaldır. Belki de birkaç kere başarısız olacaksınız. Ama sonunda başaracaksınız. Edison'u örnek alın; 
-Edison ampülü bulmak için en az 1000 kere başarısız oldu. Bir gazeteci "Bin kere nasıl başarısız oldunuz?" diye sorduğunda, 
-Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" diye cevaplamıştır. 
-
-1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ). Daha detaylı örnek bir rapor için daha önce yazılmış bir IYPT raporunu örnek alabilirsiniz (http://iyptmag.phy.ntnu.edu.tw/upload/journal/prog/51e0fdd3_20140702.pdf) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. Yapacağınız deney için benzer bir "Materyal ve Yöntem" başlığı yazınız. 500 kelimeyi geçmeyecek şekilde bu başlığı doldurunuz. 
-
-Daha kapsamlı bir ödev için daha önce yapılmış 
-2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
-3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
-
-## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
-
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+
+Büyük bir su kütlesine önceden değerleri belirlenmiş olan parametreler ile su damlaları damlatılırsa bu damlalar kütle ile birleşmeden önce su kütlesinin yüzeyinden sıçrayabilir veya yüzeyde yuvarlanabilir. Bu hareketleri etkileyen pek çok parametre vardır. Eğer su dolu bir kaba damlatılan su damlasının su yüzeyinde sıçraması veya suyla birleşmeden önce su yüzeyinde yuvarlanması gibi durumların oluşması isteniyorsa damlatılan damlanın yüksekliği,açısı,damlanın yoğunluğu,kap içindeki yüzey gerilimi gibi parametreler değiştirilerek istenilen durumların oluşması sağlanır. Yani bizim projemizin amacı su damlalarının hangi ortamlarda ve koşullarda büyük su kütlelerine karışmadan belirli bir süre boyunca yaptığı hareketlerin gözlemlenmesi,bu hareketleri etkileyen parametrelerin tespit edilmesi ve bu parametrelerin açıklanmasıdır. Su damlalarının hareketlerinin teker teker farklı parametreler ve değerleriyle gözlenecek olması bu projede kullanılması gereken yöntemin sınama-yanılma olduğunu ve projemizde deneysel yöntem kullanıldığını kanıtlar. Belirlediğimiz yöntemi uygun ortamı ve gerekli parametreleri hazırlayarak uygulayacağız ve bu süreci videoya alacağız. Videoyu yavaşlatarak damlaları inceleyecek ve alınan sonuçlara göre parametre değerlerini değiştireceğiz. Uygulayacağımız bu yöntemler doğrultusunda projemiz sonuçlandığında su dolu kaba bir su damlattığımızda gözlemlemek istediğimiz sonucu ne şekilde elde edeceğimizi biliyor olacağız.
+
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Amacımız su damlalarının hangi durumlarda su yüzeyinden sektiği veya sıçradığının araştırılması, bu durumu etkileyen parametrelerin bulunmasıdır. "15. Tunewolania Optyczne" ve "110 Water Droplets New Zealand Solution"daki verilere göre sıçrama ve sekmeyi etkileyecek olan parametreler damlanın bırakılma yüksekliği, açısı ve damlanın yoğunluğudur. http://araç.msu.ru/25-aescmsueu/arkhiv-rabot-shkolnikov/205-Problem-N11-Droplets.html sitesindeki görsellere göre sıçrama ve yüzeyde kalma çok belirgin olmasa da gözle görülebilir düzeydedir. Alıntılanan çalışmalar bizim deneyimizden daha profesyoneldir. Biz basit malzemelerle bir yurt ortamında bu deneyi tekrarlayıp sonuçları elde etmeye çalıştık. Muhtemelen bu deney başarılı olursa ev ortamında denenebilen en kolay Water Droplets sonucunu veren deneylerden biri olacaktır. Diğer deneyleri bizim kolayca uygulayabileceğimiz bir yöntem bulmak için inceledik. Bizim çalışmamız en basit yöntemle aynı sonuca ulaşmayı hedefler.
 # Materyal ve Yöntem (Experimental Setup)
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+Deneyi grubumuzdaki iki üye (Baran ve Bahadır) yurtta olduğu için birlikte yapmalarını kararlaştırdık.
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+ Deneyimizi yaparken 25cmx5cmx7cm alanında içi soğuk su dolu plastik bir kap, iki adet biri sıcak biri soğuk su dolu 200ml'lik plastik bardak, yaklaşık 5 gram tuz ve bir adet damlalık kullandık. Kap ve damlalığı evlerimizden getirsek de bardak, tuz ve suları yurttan temin ettik.
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
+Deneyi yurt odamızda gerçekleştirdik. Deneyi kayıt altına almadan önce her parametreyi 3-4 kez olmak üzere kendimiz denedik. Daha sonra artık kayda almaya başladık. Damlalıktan önce soğuk su dolu bardaktan alınan suyu soğuk su dolu kaba farklı yükseklikler ile damlattık. Daha sonra ise farklı açılar ile damlattık. Bu işlemi sıcak su için de tekrarladıktan sonra sıcak su dolu bardağa sonra da soğuk su dolu bardağa küçük bi tutam tuz atıp karıştırdık. Sonra da sıcak tuzlu su ve soğuk tuzlu su için de ilk başta yaptığımız işlemleri tekrarladık. Deneyden önce yapılan denemeleri de sayarsak deneyimiz yaklaşık bir buçuk saat sürdü. 
+İlk başta rastgele yükseklik ve açı değerleri ile deneyi pek çok kere tekrarladık. Ancak başarılı veya kayda değer bir sonuç alınamadığı için yükseklik ve açı değerleri not edilmedi.
 
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
 
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
+Deneyde farklı sıcaklık ve yoğunluk değerlerindeki su damlaları farklı yükseklik ve açılardan su kütlesine bırakıldığında bir sıçrama veya sekmenin gözlemlenmesi gerekiyordu. Ancak belirgin bir sekme veya sıçrama olmadı. Kap ile aynı değerlerde olan damla daha az sıçrama yapsa da deneyi amacına ulaştırmak için bu sonuçlar yeterli değildir. Deney başarısız oldu.
+
+Not: Yavaşlatılmış videolar 25 MB'tan fazla olduğu için videoları baya kısaltmak mecburiyetinde kaldık.
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
